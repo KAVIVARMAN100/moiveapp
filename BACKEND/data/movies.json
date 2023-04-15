@@ -1,0 +1,57 @@
+[
+  {
+    "title": "ghilli",
+    "year": 2002,
+    "runtime": 3.0,
+    "genre": "action",
+    "writer": "dharani",
+    "actors": "vijay, trisha,prakashraj",
+    "plot": "A hero who rescues actress from a pathetic villan ",
+    "images": ["bjbzsvbjkns.jpg", "vgcjdvbchjdskj.png"],
+    "idmbRating": 8.5
+  },
+  {
+    "title": "thirupachi",
+    "year": 2004,
+    "runtime": 3.0,
+    "genre": "action",
+    "writer": "dharani",
+    "actors": "vijay, trisha,prakashraj",
+    "plot": "A hero who rescues actress from a pathetic villan ",
+    "images": ["bjbzsvbjkns.jpg", "vgcjdvbchjdskj.png"],
+    "idmbRating": 8.5
+  },
+  {
+    "title": "aadhi",
+    "year": 2006,
+    "runtime": 3.0,
+    "genre": "action",
+    "writer": "dharani",
+    "actors": "vijay, trisha,prakashraj",
+    "plot": "A hero who rescues actress from a pathetic villan ",
+    "images": ["bjbzsvbjkns.jpg", "vgcjdvbchjdskj.png"],
+    "idmbRating": 8.5
+  },
+  {
+    "title": "kuruvi",
+    "year": 2002,
+    "runtime": 3.0,
+    "genre": "action",
+    "writer": "dharani",
+    "actors": "vijay, trisha,prakashraj",
+    "plot": "A hero who rescues actress from a pathetic villan ",
+    "images": ["bjbzsvbjkns.jpg", "vgcjdvbchjdskj.png"],
+    "idmbRating": 8.5
+  },
+  {
+    "title": "leo",
+    "year": 2022,
+    "runtime": 3.0,
+    "genre": "action",
+    "writer": "dharani",
+    "actors": "vijay, trisha,prakashraj",
+    "plot": "A hero who rescues actress from a pathetic villan ",
+    "images": ["bjbzsvbjkns.jpg", "vgcjdvbchjdskj.png"],
+    "idmbRating": 8.5
+  }
+]
